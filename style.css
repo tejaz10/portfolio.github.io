@@ -455,7 +455,7 @@ a.e {
 
 @meadia(max-width:400px){
   .tejas{
-    displsy:none;
+    display:none;
   }
 }
 
