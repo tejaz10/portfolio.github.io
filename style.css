@@ -449,7 +449,13 @@ a.e {
   }
 
   .tejas {
-    margin-left: 258px;
+    margin-left: 268px;
+  }
+}
+
+@meadia(max-width:400px){
+  .tejas{
+    displsy:none;
   }
 }
 
